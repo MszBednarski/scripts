@@ -4,4 +4,5 @@
 sudo apt update
 sudo apt upgrade -y
 sudo apt install -y openssh-server vim git htop
+sudo ubuntu-drivers autoinstall
 sudo ufw allow ssh
