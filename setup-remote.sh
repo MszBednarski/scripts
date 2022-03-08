@@ -3,5 +3,5 @@
 # curl <link> -sSf | sh
 sudo apt update
 sudo apt upgrade -y
-sudo apt install openssh-server -y
+sudo apt install -y openssh-server
 sudo ufw allow ssh
