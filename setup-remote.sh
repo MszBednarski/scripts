@@ -3,5 +3,5 @@
 # curl <link> | sh
 sudo apt update
 sudo apt upgrade -y
-sudo apt install -y openssh-server
+sudo apt install -y openssh-server vim git htop
 sudo ufw allow ssh
