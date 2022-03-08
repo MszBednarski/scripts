@@ -1,6 +1,6 @@
 #!/bin/bash
 # on ubuntu 20.04
-# curl <link> -sSf | sh
+# curl <link> | sh
 sudo apt update
 sudo apt upgrade -y
 sudo apt install -y openssh-server
